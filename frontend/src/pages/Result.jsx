@@ -48,7 +48,7 @@ const Result = () => {
           type="text"
           name="text"
           placeholder="Imagine here..."
-          autocomplete="off"
+          autoComplete="off"
           className="flex-1 bg-transparent ml-8 max-sm:w-20 text-neutral-700 font-mono ring-1 ring-blue-400 focus:ring-2 focus:ring-blue-400 outline-none duration-300 placeholder:text-black placeholder:opacity-50 rounded-full px-10 py-2 shadow-md focus:shadow-lg focus:shadow-blue-600"
           />
         <button type="submit" className=" flex bg-transparent rounded-full  text-neutral-700 font-mono ring-1 ring-blue-400 focus:ring-2 focus:ring-blue-400 outline-none duration-300 placeholder:text-zinc-600 placeholder:opacity-50  px-1 py-2 ml-2 shadow-md focus:shadow-lg focus:shadow-blue-600 cursor-pointer hover:scale-105">
